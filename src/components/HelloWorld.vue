@@ -12,7 +12,7 @@
         成立以来，公司坚持以项目建设带动产业发展，以产业发展促进项目建设，加快全省水资源市场的战略布局，涉水项目实现全省全覆盖，逐步形成以水资源开发、水工程建筑、水生态投资等三大板块，已经发展成为贯彻省委省政府决策部署、拉动重大水利项目投资和服务社会民生的重要力量。
       </div>
       <div>
-        <img src="https://t7.baidu.com/it/u=727460147,2222092211&fm=193&f=GIF" alt="">
+        <img src="../assets/demo.png" alt="">
       </div>
     </div>
     <el-button type="primary" @click="copyTXT">复制</el-button>
