@@ -1,4 +1,4 @@
-# vue_copy
+# vue_copy_div
 
 ## Project setup
 ```
@@ -15,10 +15,10 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 预览页
+See [Configuration Reference](https://volodyan.github.io/vue_copy_div_preview/).
 
-
+https://volodyan.github.io/vue_copy_div_preview/
 ```
 https://blog.csdn.net/qq_40776187/article/details/85341363   h5复制粘贴文字到剪切板
 
